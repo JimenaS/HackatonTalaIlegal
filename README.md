@@ -1,0 +1,2 @@
+# HackatonTalaIlegal
+CLI (Control de Licencias Inmediatas) es el nuevo sistema que actualiza la base de datos de usuarios legales en un sistema STR (Sistema en Tiempo Real) de forma digital, permitiendo el registro de los mismos, en entrada y salida al momento de deforestar, a la vez la cantidad aproximada de deforestación, además, la implementación de una antena que permite controlar la biomasa en áreas boscosas.
